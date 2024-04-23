@@ -11,9 +11,11 @@ body {
   margin: 0;
   padding: $masthead-height 0 0;
   padding-bottom: 9em;
-  color: $text-color;
-  font-family: $global-font-family;
+  color: #131310;
+  font-family: Montserrat, sans-serif;
+  font-weight: 300;
   line-height: 1.5;
+  font-size: 16px;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -24,8 +26,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
-  font-family: $header-font-family;
-  font-weight: bold;
+  font-family: Cormorant Garamond, serif;
+  font-weight:   font-weight: 400; 
 }
 
 h1 {
