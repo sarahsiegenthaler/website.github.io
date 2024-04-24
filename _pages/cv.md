@@ -56,7 +56,7 @@ Social History of the Ancient Greek and Roman World, Ancient Poverty, Marginalis
 </div>
 <div style="margin-top: 20px;"></div> <!-- Adjust margin for spacing -->
 <div style="display: flex; justify-content: space-between;">
-  <div style="flex-basis: 20%;">2015 – 2020</div>
+  <div style="flex-basis: 20%;">2018</div>
   <div style="flex-basis: 80%;"><strong>Tutor, University of Basel</strong> Proseminar “Architecture”, Department of Art History</div>
 </div>
 
