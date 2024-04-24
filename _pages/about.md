@@ -22,7 +22,7 @@ This development is reflected in the topic of this interdisciplinary dissertatio
 
 ![Map of investigated cities](images/MARP_Cities_Location_small.png)
 
-<small>Geographical location of the four investigated ancient cities</small> 
+<small>Geographical location of the four investigated ancient Roman cities</small> 
 <br>
 <br>
 This project sets out to investigate these identified locations in detail, as well as the broader urban structures of four well-preserved cities in the Roman Empire that offer a quantifiable amount of material for spatial analysis and geopolitical comparison between East and West (Rome, Pompeii, Ostia, Ephesos) in order to gain a deeper understanding of the dimensions of urban poverty, and to sketch - for the first time - a more nuanced image of the lowest strata of Roman social stratigraphy, making an invaluable contribution to understanding the social implications of urban landscapes, which continue to affect both the present and the past.
