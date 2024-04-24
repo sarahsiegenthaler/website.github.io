@@ -20,7 +20,7 @@ This development is reflected in the topic of this interdisciplinary dissertatio
 
  Within the framework of my research investigating the lives of individuals living itinerant lifestyles or experiencing homelessness, a large corpus of existing and so far neglected textual and visual sources was assembled. I determined these sources regularly refer to the same specific public places within different cities, enabling us to locate members of the marginalised poor within public urban spaces and investigate their movements within the cityscape.<br> 
 
-![Map of investigated cities](images/Siegenthaler_map_cities_overview.png)
+![Map of investigated cities](images/MARP_Cities_Location_small.png)
 
 <small>Geographical location of the four investigated ancient cities</small> 
 <br>
