@@ -48,6 +48,8 @@ Social History of the Ancient Greek and Roman World, Ancient Poverty, Marginalis
 <div style="display: flex; justify-content: space-between;">
   <div style="flex-basis: 20%;">2023 – present </div>
   <div style="flex-basis: 80%;"><strong>Assistant/ PhD candidate, University of Basel</strong> Institute of Classical Archaeology, Department of Ancient Civilizations</div>
+</div>
+<div style="margin-top: 20px;"></div> <!-- Adjust margin for spacing -->
 <div style="display: flex; justify-content: space-between;">
   <div style="flex-basis: 20%;">2021 – 2022 </div>
   <div style="flex-basis: 80%;"><strong>Student Assistant, University of Basel</strong> Student Assistant | University of Basel, SNF-Project “The Roman Egypt Laboratory: Climate Change, Societal Transformations, and the Transition to Late Antiquity” (2021–25) – PI: Prof. Dr. Sabine Huebner, Institute of Ancient History, Department of Ancient Civilizations</div>
@@ -62,6 +64,7 @@ Social History of the Ancient Greek and Roman World, Ancient Poverty, Marginalis
   <div style="flex-basis: 20%;">2018</div>
   <div style="flex-basis: 80%;"><strong>Tutor, University of Basel</strong> Proseminar “Architecture”, Department of Art History</div>
 </div>
+
 
 -------
 ## Prizes, Awards, Fellowships
