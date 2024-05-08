@@ -49,6 +49,10 @@ Social History of the Ancient Greek and Roman World, Ancient Poverty, Marginalis
   <div style="flex-basis: 20%;">2023 – present </div>
   <div style="flex-basis: 80%;"><strong>Assistant/ PhD candidate, University of Basel</strong> Institute of Classical Archaeology, Department of Ancient Civilizations</div>
 </div>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex-basis: 20%;">2022 – 2023 </div>
+  <div style="flex-basis: 80%;"><strong>Assistant/ Starting scholarship recipient, University of Basel</strong> Institute of Classical Archaeology, Department of Ancient Civilizations</div>
+</div>
 <div style="margin-top: 20px;"></div> <!-- Adjust margin for spacing -->
 <div style="display: flex; justify-content: space-between;">
   <div style="flex-basis: 20%;">2021 – 2022 </div>
