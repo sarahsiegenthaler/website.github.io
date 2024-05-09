@@ -38,8 +38,10 @@ Social History of the Ancient Greek and Roman World, Ancient Poverty, Marginalis
 <div style="display: flex; justify-content: space-between;">
   <div style="flex-basis: 20%;">2023</div>
   <div style="flex-basis: 80%;"><strong>Dissertation Project</strong> “Life and Death at the Margins of Society. Investigating Manifestations of Poverty within Roman Urban Spaces.” with a Doc.CH research grant by the Swiss National Science Foundation (SNSF), 2023–2027,
-    [Project Details](https://data.snf.ch/grants/grant/214714)</div>
+    <a href="https://data.snf.ch/grants/grant/214714">Project Details</a>
+  </div>
 </div>
+
 
 ------
 
@@ -47,12 +49,12 @@ Social History of the Ancient Greek and Roman World, Ancient Poverty, Marginalis
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <div style="flex-basis: 20%;">2023 – present </div>
-  <div style="flex-basis: 80%;"><strong>Assistant / PhD candidate, University of Basel</strong> Institute of Classical Archaeology, Department of Ancient Civilizations</div>
+  <div style="flex-basis: 80%;"><strong>Assistant / PhD Candidate, University of Basel</strong> Institute of Classical Archaeology, Department of Ancient Civilizations</div>
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <div style="flex-basis: 20%;">2022 – 2023 </div>
-  <div style="flex-basis: 80%;"><strong> Starting scholarship recipient, University of Basel</strong> Institute of Classical Archaeology, Department of Ancient Civilizations</div>
+  <div style="flex-basis: 80%;"><strong> Starting Scholarship Recipient, University of Basel</strong> Institute of Classical Archaeology, Department of Ancient Civilizations</div>
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
