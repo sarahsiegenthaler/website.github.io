@@ -99,6 +99,12 @@ Social History of the Ancient Greek and Roman World, Ancient Poverty, Marginalis
 
 ------
 
+## Publications
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-publication-cv.html %}
+{% endfor %}</ul>
+
   
 ## Presentations
 
