@@ -1,7 +1,7 @@
 ---
 title: "Profiling Street Beggars. Intersecting Discriminations Against the Poor in Ancient Roman Cities"
 collection: publications
-permalink: /2024-Profiling Street Beggars: Intersecting Discriminations Against the Poor in Ancient Roman Cities-number-1
+permalink: "/2024-Profiling Street Beggars: Intersecting Discriminations Against the Poor in Ancient Roman Cities-number-1"
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'Cambridge University Press'
